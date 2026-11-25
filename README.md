@@ -13,7 +13,7 @@ Official submission portfolio for the **S&AI (Software & AI)** course, specifica
 | **3** | **S&AI Open-Source Contributions** | **3.0** | Direct hyperlink to the official `codebytamsss/S-and-AI-Projects` repository alongside 3 verified Pull Requests with active URLs, Task IDs (`#SAI-T101`, `#SAI-T102`, `#SAI-T103`), descriptions of code modifications, and technical rationales. | **Complete** (3/3) |
 | **4** | **Projects** | **2.5** | Detailed overviews of 2 original technical projects (*CampusStudy* & *VolunteerSync*), each covering: problem statement, solution architecture, tech stack used, individual contribution, and direct repository link with documentation. | **Complete** (2.5/2.5) |
 | **5** | **Education & Achievements** | **1.0** | Academic background (B.Tech CSE, institution, expected graduation 2028, high school Java) along with verified accomplishments (2 hackathons with dates and verification links). | **Complete** (1/1) |
-| **6** | **Contact** | **1.0** | Functional links to professional email (`mailto:tamanna.gupta.dev@gmail.com`), GitHub profile (`codebytamsss`), and LinkedIn profile. | **Complete** (1/1) |
+| **6** | **Contact** | **1.0** | Functional links to professional email (`mailto:guptatamanna2007@gmail.com`), GitHub profile (`codebytamsss`), and LinkedIn profile. | **Complete** (1/1) |
 | **Total** | | **10.0** | | **10 / 10** |
 
 ---
