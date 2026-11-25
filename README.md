@@ -8,7 +8,7 @@ Official submission portfolio for the **S&AI (Software & AI)** course, specifica
 
 | # | Mandatory Section | Marks | Implementation in Portfolio | Status |
 | :---: | :--- | :---: | :--- | :---: |
-| **1** | **About Me** | **1.0** | Concise 4-sentence statement with degree program (B.Tech CSE), current year (2nd Year), technical focus, and professional objectives (Software Engineering Internship). No generic buzzwords or unedited template text. | **Complete** (1/1) |
+| **1** | **About Me** | **1.0** | Concise 4-sentence statement with degree program (B.Tech CSE), current year (1st Year), technical focus, and professional objectives (Software Engineering Internship). No generic buzzwords or unedited template text. | **Complete** (1/1) |
 | **2** | **Skills** | **1.5** | Categorized into *Programming Languages* and *Tools & Version Control*. Every single skill has an explicit, active link directly to relevant project code or course pull requests demonstrating applied experience. | **Complete** (1.5/1.5) |
 | **3** | **S&AI Open-Source Contributions** | **3.0** | Direct hyperlink to the official `codebytamsss/S-and-AI-Projects` repository alongside 3 verified Pull Requests with active URLs, Task IDs (`#SAI-T101`, `#SAI-T102`, `#SAI-T103`), descriptions of code modifications, and technical rationales. | **Complete** (3/3) |
 | **4** | **Projects** | **2.5** | Detailed overviews of 2 original technical projects (*CampusStudy* & *VolunteerSync*), each covering: problem statement, solution architecture, tech stack used, individual contribution, and direct repository link with documentation. | **Complete** (2.5/2.5) |
